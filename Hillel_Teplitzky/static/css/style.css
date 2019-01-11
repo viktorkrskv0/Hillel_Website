@@ -1,0 +1,67 @@
+body{
+  font-family: 'Della Respira', serif;
+}
+
+.myNavBar{
+background-color:#170902;
+  /*background-color:#955d33;
+  background-color: #170902;*/
+}
+.section1{
+  background-image: url('recording_session_cropped_filtered.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 539px;
+  /*background-color: #955d33;*/
+  color: white;
+  text-align: center;
+  height:61.803398%;
+  border-bottom: 5px solid #955d33;
+}
+.section2{
+  height: 650px;
+  background-color:#f9bc71;
+
+}
+.section3{
+  height: 250px;
+  background-color:#955d33;
+}
+.footer{
+  background-color: #170902;
+  color: white;
+  text-align: center;
+  height:8.196602%;
+}
+.sectionMargin{
+  margin:0;
+}
+.jumbotron {
+    border-radius: 0px !important;
+}
+.signature{
+  font-family: 'Marck Script', cursive;
+}
+.signNav{
+  font-size: 200%;
+}
+.signHeadline{
+  color:white;
+  /*margin-left: 35.196602%;*/
+}
+.hrStyle{
+  border: 0.5px solid white;
+  width:38.196602%;
+  margin-left: 31.196602%;
+}
+.navbarMarginLeft{
+  margin-left: 38.196602%;
+}
+.navbarMargin{
+  margin-top: 2.21286%;
+}
+.navbarNotSignatureAlign{
+position: relative;
+left:20px;
+top:15px;
+}
